@@ -4,17 +4,17 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ## Test
 
-> .[!NOTE].
+> _[!NOTE]_
 > Información adicional que puede ayudar al usuario.
 
-> .[!TIP].
+> _[!TIP]_
 > Un consejo utili o una sugerencia.
 
-> .[!IMPORTANT].
+> _[!IMPORTANT]_
 > Información crucial.
 
-> .[!WARNING].
+> _[!WARNING]_
 > Necesita la atención del usuario.
 
-> .[!CAUTION].
+> _[!CAUTION]_
 > Consecuencias negativas si no haces caso.
