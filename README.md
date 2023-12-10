@@ -4,17 +4,19 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ## Test
 
-> _[!NOTE]_
+<!-- Only works on readme files for github profiles -->
+
+> [!NOTE]
 > Información adicional que puede ayudar al usuario.
 
-> _[!TIP]_
+> [!TIP]
 > Un consejo utili o una sugerencia.
 
-> _[!IMPORTANT]_
+> [!IMPORTANT]
 > Información crucial.
 
-> _[!WARNING]_
+> [!WARNING]
 > Necesita la atención del usuario.
 
-> _[!CAUTION]_
+> [!CAUTION]
 > Consecuencias negativas si no haces caso.
