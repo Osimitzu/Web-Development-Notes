@@ -4,8 +4,6 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ## Test
 
-<!-- Only works on readme files for github profiles -->
-
 > [!NOTE]
 > Información adicional que puede ayudar al usuario.
 
