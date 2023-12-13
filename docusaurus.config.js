@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Personal Notes",
+  title: "Dev Notes",
   tagline:
     "Personal notes about web development and everything that I've learned about it.",
   favicon: "img/dinoFavicon.ico",
